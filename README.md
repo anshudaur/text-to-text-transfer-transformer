@@ -402,6 +402,7 @@ t5_mesh_transformer  \
   --gin_param="utils.tpu_mesh_shape.tpu_topology = '${TPU_SIZE}'"
 ```
 
+
 ## Released Model Checkpoints
 
 We have released the following checkpoints for pre-trained models described in our [paper][paper]:
